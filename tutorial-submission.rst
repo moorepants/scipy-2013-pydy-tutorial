@@ -108,9 +108,6 @@ software tools that have been presented.
     example problem
 16. [02:35] Exercise: Linearize the exercise problem
 17. [02:45] Brief introduction to control theory and python-control
-
-   - Concept of feedback
-
 18. [02:55] Build a controller for the sample problem with python control
 19. [03:05] Exercise: make controller for the exercise problem
 20. [03:20] Add tracking control to the problem
